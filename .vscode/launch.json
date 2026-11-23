@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "IntroProject (DesktopGL)",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/Platforms/DesktopGL/IntroProject.DesktopGL.csproj",
+            "preLaunchTask": "Build: DesktopGL"
+        }
+    ]
+}
