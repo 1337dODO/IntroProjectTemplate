@@ -1,6 +1,6 @@
 using Microsoft.Xna.Framework;
 
-namespace Engine;
+namespace Engine.Components;
 
 public class VelocityComponent : Component
 {
